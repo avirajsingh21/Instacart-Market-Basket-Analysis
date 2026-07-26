@@ -98,7 +98,14 @@ Online grocery retailers need to understand customer purchasing behavior to impr
 - Improve inventory planning using purchasing trends.
 - Offer targeted promotions for repeat customers.
 
----
+
+
+# Project Screenshots
+
+## Top Selling Products
+
+![Top Products](Top_products.png)
+
 
 # Repository Structure
 
